@@ -1,0 +1,24 @@
+{
+  "name": "@dishainwati/ado-task-e2e-test",
+  "version": "1.0.0",
+  "description": "Disposable package for Azure Pipelines E2E testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dishainwati/ado-task-e2e-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/dishainwati/ado-task-e2e-test/issues"
+  },
+  "homepage": "https://github.com/dishainwati/ado-task-e2e-test#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
+}
